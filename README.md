@@ -1,2 +1,2 @@
 # testgit
-This is for testing git
+This is SG's first git project
